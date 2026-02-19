@@ -40,3 +40,5 @@ sections.forEach(section => {
 
 // Add CSS for .hidden and .fade-in to style.css manually or dynamically if needed
 // For simplicity, assuming CSS will handle .hidden { opacity: 0; transition: opacity 0.8s ease-out; } and .fade-in { opacity: 1; }
+
+// --- Triggering new deployment after manual GitHub Pages enablement ---
